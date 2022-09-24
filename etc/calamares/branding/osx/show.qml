@@ -53,7 +53,7 @@ Presentation
                 anchors.horizontalCenterOffset: 0
                 font.pixelSize: parent.width *.020
                 color: 'white'
-                text: qsTr("<b>Welcome to Ezarcher, an Arch based Linux<br/>")
+                text: qsTr("<b>Welcome to OSX, an Arch based Linux<br/>")
                 wrapMode: Text.WordWrap
                 width: parent.width / 1.4
                 horizontalAlignment: Text.AlignHCenter
@@ -80,7 +80,7 @@ Presentation
                 anchors.horizontalCenterOffset: 0
                 font.pixelSize: parent.width *.020
                 color: 'white'
-                text: qsTr("<b>Ezarcher is 100% compatible with Arch Linux<br/>")
+                text: qsTr("<b>OSX is 100% compatible with Arch Linux<br/>")
                 
                 wrapMode: Text.WordWrap
                 width: parent.width / 1.4
@@ -135,7 +135,7 @@ Presentation
                 anchors.horizontalCenterOffset: 0
                 font.pixelSize: parent.width *.020
                 color: 'white'
-                text: qsTr("<b>Thank you for trying Ezarcher<br/>")
+                text: qsTr("<b>Thank you for trying OSX<br/>")
                 wrapMode: Text.WordWrap
                 width: parent.width / 1.4
                 horizontalAlignment: Text.AlignHCenter
