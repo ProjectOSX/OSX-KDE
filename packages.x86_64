@@ -303,6 +303,7 @@ noto-fonts
 opendesktop-fonts
 ttf-opensans
 freetype2
+sf-fonts
 
 # Printing Support
 cups
@@ -341,6 +342,7 @@ konsole
 kwin
 kwrite
 meld
+monterey-kde-theme-git
 neofetch
 networkmanager-qt
 okular
@@ -348,9 +350,13 @@ packagekit-qt5
 papirus-icon-theme
 pavucontrol-qt
 plasma
+plasma5-applets-window-buttons
+plasma5-applets-window-appmenu
 print-manager
 qbittorrent
 sweeper
+whitesur-cursor-theme-git
+whitesur-icon-theme-git
 
 # Display Manager
 sddm
@@ -392,3 +398,8 @@ mkinitcpio-openswap
 
 # AUR
 trizen
+ulauncher
+
+# User preference
+discord
+code
