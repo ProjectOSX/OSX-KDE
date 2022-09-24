@@ -24,10 +24,10 @@ MYUSERNM="live"
 MYUSRPASSWD="live"
 # Pick a password of your choice
 
-RTPASSWD="toor"
+RTPASSWD="root"
 # Pick a root password
 
-MYHOSTNM="ezarcher"
+MYHOSTNM="osx"
 # Pick a hostname for the machine
 
 # ----------------------------------------
